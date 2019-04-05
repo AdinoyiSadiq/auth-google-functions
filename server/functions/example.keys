@@ -1,0 +1,6 @@
+const keys = {
+  ACCOUNTSID: '',
+  AUTHTOKEN: '',
+}
+
+module.exports = keys;
